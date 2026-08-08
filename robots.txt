@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://firepathfinder.com/blog-firepathfinder/sitemap.xml
